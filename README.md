@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on [ERP.COM BD](https://www.erp.com.bd)
+- 🔭 I’m currently working on [ERP.COM BD](https://www.erp.com.bd/web/)
 - 🌱 I’m currently learning **Enterprise resource planning (ERP)**
 - 🍴 I love to eat more!
 ---
