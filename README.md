@@ -1,8 +1,8 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Prog Theta](https://github.com/progtheta)
-- 🌱 I’m currently learning **Socket.IO**
+- 🔭 I’m currently working on [ERP.COM BD](https://www.erp.com.bd)
+- 🌱 I’m currently learning **Enterprise resource planning (ERP)**
 - 🍴 I love to eat more!
 ---
 
